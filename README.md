@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MutaiCheptoo
-- 🌱 I’m currently learning java/ spring boot/sql/plsql.
+- 🌱 I’m currently learning C# /.NET /SQL
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: A midnight snack would do.😄
 
